@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<employees>
+  <Employe>
+    <Name>Viktor</Name>
+    <Surname>Los</Surname>
+    <Patronymic>Viktorovych</Patronymic>
+    <DateOfBirth>05.12.1995 0:00:00</DateOfBirth>
+    <NumberTax>1302918</NumberTax>
+    <Education>Masters</Education>
+    <Profession>Accountant</Profession>
+    <DateOfStartWork>01.12.2021 0:00:00</DateOfStartWork>
+    <Salary Month="February" Year="2021">
+      <Rate>10000</Rate>
+    </Salary>
+  </Employe>
+  <Employe>
+    <Name>Lesya</Name>
+    <Surname>Koshel</Surname>
+    <Patronymic>Volodimirivna</Patronymic>
+    <DateOfBirth>08.11.2000 0:00:00</DateOfBirth>
+    <NumberTax>15429128</NumberTax>
+    <Education>Bakalavr</Education>
+    <Profession>Rekruter</Profession>
+    <DateOfStartWork>01.11.2021 0:00:00</DateOfStartWork>
+    <Salary Month="February" Year="2021">
+      <Rate>7200</Rate>
+    </Salary>
+    <Salary Month="December" Year="2021">
+      <Rate>9000</Rate>
+    </Salary>
+  </Employe>
+  <Employe>
+    <Name>Denys</Name>
+    <Surname>Borh</Surname>
+    <Patronymic>Semenovych</Patronymic>
+    <DateOfBirth>03.05.1994 0:00:00</DateOfBirth>
+    <NumberTax>17543218</NumberTax>
+    <Education>Masters</Education>
+    <Profession>Programmers</Profession>
+    <DateOfStartWork>01.12.2020 0:00:00</DateOfStartWork>
+    <Salary Month="February" Year="2021">
+      <Rate>8000</Rate>
+    </Salary>
+  </Employe>
+  <Employe>
+    <Name>George</Name>
+    <Surname>Bun</Surname>
+    <Patronymic>Serhiovych</Patronymic>
+    <DateOfBirth>08.11.2000</DateOfBirth>
+    <NumberTax>64332</NumberTax>
+    <Education>Bakalavr</Education>
+    <Profession>Programmer</Profession>
+    <DateOfBirth>08.11.2000</DateOfBirth>
+    <DateOfStartWork>01.11.2021</DateOfStartWork>
+  </Employe>
+</employees>

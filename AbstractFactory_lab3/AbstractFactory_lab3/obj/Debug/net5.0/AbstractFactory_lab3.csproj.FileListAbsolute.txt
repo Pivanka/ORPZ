@@ -1,0 +1,16 @@
+D:\.net\AbstractFactory_lab3\AbstractFactory_lab3\obj\Debug\net5.0\AbstractFactory_lab3.csproj.AssemblyReference.cache
+D:\.net\AbstractFactory_lab3\AbstractFactory_lab3\obj\Debug\net5.0\AbstractFactory_lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\AbstractFactory_lab3\AbstractFactory_lab3\obj\Debug\net5.0\AbstractFactory_lab3.AssemblyInfoInputs.cache
+D:\.net\AbstractFactory_lab3\AbstractFactory_lab3\obj\Debug\net5.0\AbstractFactory_lab3.AssemblyInfo.cs
+D:\.net\AbstractFactory_lab3\AbstractFactory_lab3\obj\Debug\net5.0\AbstractFactory_lab3.csproj.CoreCompileInputs.cache
+D:\.net\AbstractFactory_lab3\AbstractFactory_lab3\bin\Debug\net5.0\AbstractFactory_lab3.exe
+D:\.net\AbstractFactory_lab3\AbstractFactory_lab3\bin\Debug\net5.0\AbstractFactory_lab3.deps.json
+D:\.net\AbstractFactory_lab3\AbstractFactory_lab3\bin\Debug\net5.0\AbstractFactory_lab3.runtimeconfig.json
+D:\.net\AbstractFactory_lab3\AbstractFactory_lab3\bin\Debug\net5.0\AbstractFactory_lab3.runtimeconfig.dev.json
+D:\.net\AbstractFactory_lab3\AbstractFactory_lab3\bin\Debug\net5.0\AbstractFactory_lab3.dll
+D:\.net\AbstractFactory_lab3\AbstractFactory_lab3\bin\Debug\net5.0\ref\AbstractFactory_lab3.dll
+D:\.net\AbstractFactory_lab3\AbstractFactory_lab3\bin\Debug\net5.0\AbstractFactory_lab3.pdb
+D:\.net\AbstractFactory_lab3\AbstractFactory_lab3\obj\Debug\net5.0\AbstractFactory_lab3.dll
+D:\.net\AbstractFactory_lab3\AbstractFactory_lab3\obj\Debug\net5.0\ref\AbstractFactory_lab3.dll
+D:\.net\AbstractFactory_lab3\AbstractFactory_lab3\obj\Debug\net5.0\AbstractFactory_lab3.pdb
+D:\.net\AbstractFactory_lab3\AbstractFactory_lab3\obj\Debug\net5.0\AbstractFactory_lab3.genruntimeconfig.cache
